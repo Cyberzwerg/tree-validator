@@ -1,8 +1,8 @@
 {
   "name": "tree-validator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple validator for JSON Trees with error reporting. Written in coffee",
-  "main": "index.js",
+  "main": "./dist/treeValidator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
