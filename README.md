@@ -20,7 +20,7 @@ A simple validator for JSON Trees with error reporting. Written in coffee
   
   testValue = "Lisa Simpson    ";
   
-  console.log validator.validate(testValue,config);
+  console.log(validator.validate(testValue,config));
   
   
 ```
