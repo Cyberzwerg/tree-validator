@@ -2,7 +2,6 @@ validator = require('validator')
 class TreeValidator
 
 	validate: (tree,config) ->
-
 		return @validateItem(tree,config,"") # Initial Path
 		
 		
